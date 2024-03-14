@@ -1,14 +1,3 @@
-## USUAL REQUIREMENTS
-pytest
-pylint
-ipdb
-jupyter
-jupyterlab
-numpy
+plotly
 pandas
-matplotlib
-seaborn
-black
-
-## PROJECT REQUIREMENTS
-# scikit-learn
+streamlit

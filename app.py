@@ -5,10 +5,10 @@ import pandas as pd
 import plotly.express as px
 from datetime import datetime, timedelta
 
-API_URL = "http://127.0.0.1:8000/predict"
-API_URL_GET = "http://127.0.0.1:8000/predict_get"
-API_URL_POST = "http://127.0.0.1:8000/predict_post/"
-API_URL_POST_SIMU = "http://127.0.0.1:8000/predict_post_simu/"
+API_URL = "https://uk-repository-5vml4t4f6a-ew.a.run.app/predict"
+API_URL_GET = "https://uk-repository-5vml4t4f6a-ew.a.run.app/predict_get"
+API_URL_POST = "https://uk-repository-5vml4t4f6a-ew.a.run.app/predict_post/"
+API_URL_POST_SIMU = "https://uk-repository-5vml4t4f6a-ew.a.run.app/predict_post_simu/"
 
 # left panel management
 with st.sidebar:
